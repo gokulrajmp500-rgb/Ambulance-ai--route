@@ -1,0 +1,9 @@
+{
+"name":"Ambulance AI",
+"short_name":"Ambulance",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"white",
+"description":"Emergency Route Optimizer",
+"icons":[]
+}

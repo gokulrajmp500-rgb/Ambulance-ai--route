@@ -1,0 +1,33 @@
+body{
+font-family:Arial;
+text-align:center;
+}
+
+#map{
+height:400px;
+margin:10px;
+}
+
+button{
+padding:10px;
+margin:5px;
+font-size:16px;
+border:none;
+color:white;
+border-radius:5px;
+}
+
+/* Emergency button - Red */
+button:nth-child(3){
+background-color:#e74c3c;
+}
+
+/* Confirm button - Green */
+button:nth-child(4){
+background-color:#27ae60;
+}
+
+/* Reject button - Orange */
+button:nth-child(5){
+background-color:#f39c12;
+}
